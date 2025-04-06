@@ -52,11 +52,7 @@ An AI-integrated web application designed to help teachers manage student data e
 
     AI Integration: Gemini API
 
-    Authentication: JWT / Firebase Auth
-
-    Deployment: Docker, Render / AWS / GCP
-
-    Storage: Firebase / AWS S3
+    Deployment: Render
 
 📦 How It Works
 
